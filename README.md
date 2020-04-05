@@ -1,6 +1,13 @@
 下次更新，看心情啦。
-
 # 更新说明：
+2020年4月5日：
+由于最近没用macOS系统，而10.15.4又更换了核显的驱动方式，clover需要更新到5107+版本，我临时用tluck的EFI和dandepeched的E580的ACPI文件组合了一下，不保证能用。
+使用的两个文件来源：
+tluck EFI:https://github.com/tluck/Lenovo-T460-Clover
+dandepeched的ACPI：https://github.com/dandepeched/Hackintosh-ThinkPad-E580
+特此注明来源.
+
+2019年10月7日：
 1.更新clover到最新的clover r5093,目前测试版本为10.15beta11,各种驱动更新到10月7日最新版。
 
 2.使用AptioMemoryFix.efi，这个感觉兼容性不错的。
